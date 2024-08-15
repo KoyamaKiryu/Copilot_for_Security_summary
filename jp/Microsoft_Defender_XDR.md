@@ -5,10 +5,10 @@
 
 ## 保護対象と保護を行うための仕組み
 - [Microsoft Defender for Endpoint](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/blob/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-for-endpoint) によるエンドポイントの保護
-- [Microsoft Defender Vulnerability Management](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-vulnerability-management) による資産の保護
-- [Microsoft Defender for office 365](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-for-office-365) によるEmailとコラボレーションツールの保護
-- [Microsoft Defender for Identity](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-for-identity) によるIDの保護
-- [Microsoft Defender for Cloud Apps](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/main/jp/Microsoft_Defender_XDR.md#microsoft-copilot-for-cloud-apps) によるアプリケーションの保護
+- [Microsoft Defender Vulnerability Management](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/blob/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-vulnerability-management) による資産の保護
+- [Microsoft Defender for office 365](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/blob/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-for-office-365) によるEmailとコラボレーションツールの保護
+- [Microsoft Defender for Identity](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/blob/main/jp/Microsoft_Defender_XDR.md#microsoft-defender-for-identity) によるIDの保護
+- [Microsoft Defender for Cloud Apps](https://github.com/KoyamaKiryu/Copilot_for_Security_summary/blob/main/jp/Microsoft_Defender_XDR.md#microsoft-copilot-for-cloud-apps) によるアプリケーションの保護
 
 ### Microsoft Defender for Endpoint
 - エンドポイントを企業ネットワークが保護できるように設計されたプラットフォーム
