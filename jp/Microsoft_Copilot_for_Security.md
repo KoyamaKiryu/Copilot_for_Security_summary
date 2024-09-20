@@ -62,6 +62,7 @@
     - 改善が必要 (Needs improvement)
     - 不適切 (Inappropriate）
   - 各オプションについて、追加情報の入力ができる
+    
   ![image](https://github.com/user-attachments/assets/6f677d8a-bab7-42e6-9766-1353df2457bc)
 
 - ピンボード
